@@ -29,10 +29,11 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 * [Resource Name](#link)
 ### Identifying Combinatorial Explosions
 * [Pairwise Testing: A Best Practice That Isn't By James Bach](https://www.satisfice.com/download/pairwise-testing-a-best-practice-that-isnt)
+* [Pairwise Testing By Michael Bolton](https://www.developsense.com/pairwiseTesting.html)
 ### Chartering
 * [Resource Name](#link)
 ### Identifying/using Oracles
-* [Resource Name](#link)
+* [Examples of Test Oracles By Cem Kaner](http://www.testingeducation.org/k04/OracleExamples.htm)
 ### Test Technique Selection
 * [Resource Name](#link)
 ### Requirement Analysis
@@ -53,7 +54,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 * [Blog - Testing Tours By Daniel Donbavand](https://www.danieldonbavand.com/testing-166/)
 * [Article - 10 Exploratory Testing Tours You Can Use to Analyze Artifacts By By Terry Wiegmann](https://www.stickyminds.com/article/10-exploratory-testing-tours-you-can-use-analyze-artifacts)
 ### ATDD
-* [Resource Name](#link)
+* [Book - ATDD by Example: A Practical Guide to Acceptance Test-Driven Development By Markus Gärtner](https://www.goodreads.com/book/show/13705173-atdd-by-example)
 ### BDD
 * [Course - Cucumber School Online](https://cucumber.io/school/)
 * [Katas to practice BDD](https://kata-log.rocks/bdd)
@@ -79,14 +80,14 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 * [Book - Clean Code: A Handbook of Agile Software Craftsmanship By Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
 * [Katas to learn Refactoring](https://kata-log.rocks/refactoring)
 ### Security Testing
-* [Resource Name](#link)
+* [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/stable/)
 
 ## Speaking & Writing
 ### Technical Writing
 * [Google Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
 * [Google Technical writer guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide)
 ### Presentation Skills
-* [Resource Name](#link)
+* [Infodeck By Martin Fowler](https://martinfowler.com/bliki/Infodeck.html)
 ### Conference Participation 
 * [Resource Name](#link)
 
