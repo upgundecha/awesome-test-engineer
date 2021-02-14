@@ -116,7 +116,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 
 ## Logic & Rational Thought
 ### Critical Thinking
-* [Resource Name](#link)
+* [Book - Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 ### Deductive Reasoning
 * [Resource Name](#link)
 ### Systems Thinking
