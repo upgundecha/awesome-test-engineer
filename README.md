@@ -1,8 +1,8 @@
 # Awesome Test Engineer Skills Map
 
-> In 2013 RedGate Software released a super useful [skill map](https://www.red-gate.com/wp-content/uploads/2014/02/Test-Engineering-Skills-v3.pdf) for Test Engineering discipline. It covers the breadth of skills along with specialism for Test Engineers (some call them SDETs). This repo lists curated resources to learn & master the skills mentioned in the core Test Engineer skill map.
+> In 2013 RedGate Software released a super useful [skills map](https://www.red-gate.com/wp-content/uploads/2014/02/Test-Engineering-Skills-v3.pdf) for Test Engineering discipline. It covers the breadth of skills along with specialism for Test Engineers or SDETs. This repo lists curated resources to learn & master the skills mentioned in the core Test Engineer skills map.
 
-Please feel free to fork the repo and add your favorite blog posts, books, courses or any other useful resources on these skill areas.
+Please feel free to fork the repo and add your favorite blog posts, books, courses or other useful resources for any of these skill areas.
 
 ## Contents
 * [Test Design](#test-design)
@@ -28,7 +28,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Black Box Techniques
 * [Resource Name](#link)
 ### Identifying Combinatorial Explosions
-* [Resource Name](#link)
+* [Pairwise Testing: A Best Practice That Isn't By James Bach](https://www.satisfice.com/download/pairwise-testing-a-best-practice-that-isnt)
 ### Chartering
 * [Resource Name](#link)
 ### Identifying/using Oracles
@@ -49,11 +49,15 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Exploratory Testing
 * [Resource Name](#link)
 ### Testing Tours
-* [Resource Name](#link)
+* [Blog - What is Tour Testing? A Structured Approach to Exploratory Testing By Ulf Eriksson](https://reqtest.com/testing-blog/what-is-tour-testing-a-structured-approach-to-exploratory-testing/)
+* [Blog - Testing Tours By Daniel Donbavand](https://www.danieldonbavand.com/testing-166/)
+* [Article - 10 Exploratory Testing Tours You Can Use to Analyze Artifacts By By Terry Wiegmann](https://www.stickyminds.com/article/10-exploratory-testing-tours-you-can-use-analyze-artifacts)
 ### ATDD
 * [Resource Name](#link)
 ### BDD
 * [Course - Cucumber School Online](https://cucumber.io/school/)
+* [Katas to practice BDD](https://kata-log.rocks/bdd)
+* [Books on BDD, Cucumber](https://cucumber.io/docs/professional/books/)
 
 ## Technical
 ### Debugging
@@ -65,11 +69,15 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Version Control
 * [Resources to learn Git by GitHub](https://try.github.io/)
 ### TDD
-* [Resource Name](#link)
+* [Let's Play: Test-Driven Development By James Shore](https://www.jamesshore.com/v2/projects/lets-play-tdd)
+* [Katas to learn TDD](https://kata-log.rocks/tdd)
+
 ### Profiling
 * [Resource Name](#link)
 ### Refactoring
-* [Resource Name](#link)
+* [Book - Refactoring: Improving the Design of Existing Code, Second Edition By Martin Fowler, Kent Beck](https://www.goodreads.com/book/show/42767334-refactoring?ac=1&from_search=true&qid=bazxbdSrMZ&rank=1)
+* [Book - Clean Code: A Handbook of Agile Software Craftsmanship By Robert C. Martin](https://www.goodreads.com/book/show/3735293-clean-code)
+* [Katas to learn Refactoring](https://kata-log.rocks/refactoring)
 ### Security Testing
 * [Resource Name](#link)
 
@@ -86,7 +94,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Cross Functional Pairing
 * [Resource Name](#link)
 ### Situational Awareness
-* [Resource Name](#link)
+* [Wikipedia - Situation awareness](https://en.wikipedia.org/wiki/Situation_awareness#:~:text=Situational%20awareness%20or%20situation%20awareness,projection%20of%20their%20future%20status.)
 ### Diplomacy
 * [Resource Name](#link)
 
