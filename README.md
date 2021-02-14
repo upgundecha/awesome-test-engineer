@@ -22,8 +22,8 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 
 ## Test Design
 ### Selecting Heuristics
-* [Test Heuristics Cheat Sheet](chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/index.html)
 * [Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model)
+* [Test Heuristics Cheat Sheet](https://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
 * [Software Testing Heuristics: Mind The Gap!](https://www.ministryoftesting.com/dojo/lessons/software-testing-heuristics-mind-the-gap)
 ### Black Box Techniques
 * [Resource Name](#link)
