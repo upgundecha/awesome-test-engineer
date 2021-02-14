@@ -195,8 +195,8 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 
 ---
 ## Contributors
-<a href="https://github.com/upgundecha/howtheysre/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=upgundecha/howtheysre" />
+<a href="https://github.com/upgundecha/awesome-test-engineer/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=upgundecha/awesome-test-engineer" />
 </a>
 
 ## Contribute
