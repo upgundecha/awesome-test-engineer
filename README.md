@@ -120,7 +120,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Deductive Reasoning
 * [Resource Name](#link)
 ### Systems Thinking
-* [Book - An Introduction to General Systems Thinking By Gerald M. Weinberg](https://www.amazon.com/Introduction-General-Systems-Thinking-Anniversary/dp/0932633498)]
+* [Book - An Introduction to General Systems Thinking By Gerald M. Weinberg](https://www.amazon.com/Introduction-General-Systems-Thinking-Anniversary/dp/0932633498)
 
 ## Learning
 ### Observation
@@ -132,7 +132,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 
 ## Defect Management
 ### Bug Advocacy
-* [Bug Advocacy: Effective Bug Investigation and Reporting ](http://testingeducation.org/BBST/bugadvocacy/)
+* [Bug Advocacy: Effective Bug Investigation and Reporting By BBST](http://testingeducation.org/BBST/bugadvocacy/)
 ### Root Cause Analysis
 * [Resource Name](#link)
 ### Severity/Priority Identification
@@ -161,7 +161,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Asking Questions
 * [Resource Name](#link)
 ### Giving Difficult Feedback
-* [Book - Difficult Conversations: How to Discuss What Matters Most By by Douglas Stone, Bruce Patton, Sheila Heen](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
+* [Book - Difficult Conversations: How to Discuss What Matters Most By Douglas Stone, Bruce Patton, Sheila Heen](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 ### Define Trading Language
 * [Resource Name](#link)
 
