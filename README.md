@@ -75,7 +75,8 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 
 ## Speaking & Writing
 ### Technical Writing
-* [Resource Name](#link)
+* [Google Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
+* [Google Technical writer guide](https://developers.google.com/season-of-docs/docs/tech-writer-guide)
 ### Presentation Skills
 * [Resource Name](#link)
 ### Conference Participation 
