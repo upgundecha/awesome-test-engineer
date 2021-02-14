@@ -6,21 +6,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 
 ## Contents
 * [Test Design](#test-design)
-    * [Selecting Heuristics](#selecting-heuristics)
-    * [Black Box Techniques](#black-box-techniques)
-    * [Identifying Combinatorial Explosions](#identifying-combinatorial-explosions)
-    * [Chartering](#chartering)
-    * [Identifying and using Oracles](#identifying-and-using-oracles)
-    * [Test Technique Selection](#test-technique-selection)
-    * [Requirement Analysis](#requirement-analysis)
 * [Test Approach](#test-approach)
-    * [Determine Test Approach](#determine-test-approach)
-    * [Benchmarking](#benchmarking)
-    * [Regression Testing](#regression-testing)
-    * [Exploratory Testing](#exploratory-testing)
-    * [Testing Tours](#testing-tours)
-    * [ATDD](#atdd)
-    * [BDD](#bdd)
 * [Technical](#technical)
 * [Speaking & Writing](#speaking-&-writing)
 * [Social Skills](#social-skills)
@@ -34,6 +20,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 * [Communication](#communication)
 * [Time Management](#time-management)
 
+---
 ## Test Design
 ### Selecting Heuristics
 * [Heuristic Test Strategy Model by James Bach](https://www.satisfice.com/download/heuristic-test-strategy-model)
@@ -53,7 +40,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Requirement Analysis
 * [Resource Name](#link)
 
-
+---
 ## Test Approach
 ### Determine Test Approach
 * [Resource Name](#link)
@@ -62,7 +49,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Regression Testing
 * [Resource Name](#link)
 ### Exploratory Testing
-* [Resource Name](#link)
+* [Book - Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing By Elisabeth Hendrickson](https://www.goodreads.com/book/show/15980494-explore-it)
 ### Testing Tours
 * [Blog - What is Tour Testing? A Structured Approach to Exploratory Testing By Ulf Eriksson](https://reqtest.com/testing-blog/what-is-tour-testing-a-structured-approach-to-exploratory-testing/)
 * [Blog - Testing Tours By Daniel Donbavand](https://www.danieldonbavand.com/testing-166/)
@@ -74,6 +61,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 * [Katas to practice BDD](https://kata-log.rocks/bdd)
 * [Books on BDD, Cucumber](https://cucumber.io/docs/professional/books/)
 
+---
 ## Technical
 ### Debugging
 * [Resource Name](#link)
@@ -86,7 +74,6 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### TDD
 * [Let's Play: Test-Driven Development By James Shore](https://www.jamesshore.com/v2/projects/lets-play-tdd)
 * [Katas to learn TDD](https://kata-log.rocks/tdd)
-
 ### Profiling
 * [Resource Name](#link)
 ### Refactoring
@@ -96,6 +83,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Security Testing
 * [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/stable/)
 
+---
 ## Speaking & Writing
 ### Technical Writing
 * [Google Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
@@ -105,6 +93,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Conference Participation 
 * [Resource Name](#link)
 
+---
 ## Social Skills
 ### Cross Functional Pairing
 * [Resource Name](#link)
@@ -113,12 +102,14 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Diplomacy
 * [Resource Name](#link)
 
+---
 ## Risk Management
 ### Risk Control
 * [Resource Name](#link)
 ### Risk Assessment
 * [Resource Name](#link)
 
+---
 ## Planning
 ### Scoping
 * [Resource Name](#link)
@@ -129,6 +120,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Test Planning
 * [Resource Name](#link)
 
+---
 ## Modelling
 ### Mind Mapping
 * [Article - How To Use Mind Maps To Develop Clarity With Your Software Testing Strategy By Elizabeth Zagroba](https://www.ministryoftesting.com/dojo/lessons/mind-maps-made-easy)
@@ -137,6 +129,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### State Model
 * [Resource Name](#link)
 
+---
 ## Logic & Rational Thought
 ### Critical Thinking
 * [Book - Thinking, Fast and Slow By Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
@@ -145,6 +138,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Systems Thinking
 * [Book - An Introduction to General Systems Thinking By Gerald M. Weinberg](https://www.amazon.com/Introduction-General-Systems-Thinking-Anniversary/dp/0932633498)
 
+---
 ## Learning
 ### Observation
 * [Resource Name](#link)
@@ -153,6 +147,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Research Methods
 * [Resource Name](#link)
 
+---
 ## Defect Management
 ### Bug Advocacy
 * [Bug Advocacy: Effective Bug Investigation and Reporting By BBST](http://testingeducation.org/BBST/bugadvocacy/)
@@ -167,7 +162,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Defect Reporting
 * [Resource Name](#link)
 
-
+---
 ## Coaching & Mentoring
 ### Teaching
 * [Resource Name](#link)
@@ -178,6 +173,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Coaching
 * [Resource Name](#link)
 
+---
 ## Communication
 ### Monitoring Progress
 * [Resource Name](#link)
@@ -188,6 +184,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Define Trading Language
 * [Resource Name](#link)
 
+---
 ## Time Management
 ### Triaging
 * [Resource Name](#link)
@@ -195,8 +192,8 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 * [Resource Name](#link)
 ### Multitasking
 * [Resource Name](#link)
----
 
+---
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
