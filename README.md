@@ -22,9 +22,9 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 
 ## Test Design
 ### Selecting Heuristics
-* [Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model)
-* [Test Heuristics Cheat Sheet](https://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
-* [Software Testing Heuristics: Mind The Gap!](https://www.ministryoftesting.com/dojo/lessons/software-testing-heuristics-mind-the-gap)
+* [Heuristic Test Strategy Model by James Bach](https://www.satisfice.com/download/heuristic-test-strategy-model)
+* [Test Heuristics Cheat Sheet from Elisabeth Hendrickson, James Lyndsay, and Dale Emery](https://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
+* [Software Testing Heuristics: Mind The Gap! By Richard Bradshaw and Sarah Deery](https://www.ministryoftesting.com/dojo/lessons/software-testing-heuristics-mind-the-gap)
 ### Black Box Techniques
 * [Resource Name](#link)
 ### Identifying Combinatorial Explosions
@@ -63,7 +63,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Automated Testing
 * [Resource Name](#link)
 ### Version Control
-* [Resources to learn Git](https://try.github.io/)
+* [Resources to learn Git by GitHub](https://try.github.io/)
 ### TDD
 * [Resource Name](#link)
 ### Profiling
@@ -108,19 +108,19 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 
 ## Modelling
 ### Mind Mapping
-* [Article - How To Use Mind Maps To Develop Clarity With Your Software Testing Strategy](https://www.ministryoftesting.com/dojo/lessons/mind-maps-made-easy)
-* [Blog - Mind Mapping 101](http://www.bettertesting.co.uk/content/?p=956)
-* [Book - The Ultimate Book of Mind Maps](https://www.amazon.com/Ultimate-Book-Mind-Maps-ebook/dp/B008QS75CY/ref=sr_1_16?dchild=1&keywords=mind+mapping&qid=1613290263&s=books&sr=1-16)
+* [Article - How To Use Mind Maps To Develop Clarity With Your Software Testing Strategy By Elizabeth Zagroba](https://www.ministryoftesting.com/dojo/lessons/mind-maps-made-easy)
+* [Blog - Mind Mapping 101 By Darren McMillan](http://www.bettertesting.co.uk/content/?p=956)
+* [Book - The Ultimate Book of Mind Maps By Tony Buzan](https://www.amazon.com/Ultimate-Book-Mind-Maps-ebook/dp/B008QS75CY/ref=sr_1_16?dchild=1&keywords=mind+mapping&qid=1613290263&s=books&sr=1-16)
 ### State Model
 * [Resource Name](#link)
 
 ## Logic & Rational Thought
 ### Critical Thinking
-* [Book - Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+* [Book - Thinking, Fast and Slow By Daniel Kahneman](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 ### Deductive Reasoning
 * [Resource Name](#link)
 ### Systems Thinking
-* [Book - An Introduction to General Systems Thinking, By Gerald M. Weinberg](https://www.amazon.com/Introduction-General-Systems-Thinking-Anniversary/dp/0932633498)]
+* [Book - An Introduction to General Systems Thinking By Gerald M. Weinberg](https://www.amazon.com/Introduction-General-Systems-Thinking-Anniversary/dp/0932633498)]
 
 ## Learning
 ### Observation
@@ -132,7 +132,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 
 ## Defect Management
 ### Bug Advocacy
-* [Bug Advocacy: Effective Bug Investigation and Reporting](http://testingeducation.org/BBST/bugadvocacy/)
+* [Bug Advocacy: Effective Bug Investigation and Reporting ](http://testingeducation.org/BBST/bugadvocacy/)
 ### Root Cause Analysis
 * [Resource Name](#link)
 ### Severity/Priority Identification
@@ -161,7 +161,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Asking Questions
 * [Resource Name](#link)
 ### Giving Difficult Feedback
-* [Book - Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447/ref=sr_1_1?crid=3MWKLA44TW784&dchild=1&keywords=difficult+conversations&qid=1613290221&s=books&sprefix=difficu%2Cstripbooks%2C389&sr=1-1)
+* [Book - Difficult Conversations: How to Discuss What Matters Most By by Douglas Stone, Bruce Patton, Sheila Heen](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 ### Define Trading Language
 * [Resource Name](#link)
 
