@@ -194,12 +194,15 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 * [Resource Name](#link)
 
 ---
-## Contribute
+## Contributors
+<a href="https://github.com/upgundecha/howtheysre/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=upgundecha/howtheysre" />
+</a>
 
+## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 ## License
-
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Unmesh Gundecha has waived all copyright and

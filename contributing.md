@@ -11,8 +11,7 @@ project you agree to abide by its terms.
 You may find the [Markdown Link Generator](https://chrome.google.com/webstore/detail/markdown-link-generator/glnecdafikgonniihbdjneaikhcgcbhb?hl=en-GB&authuser=0) extension for Google Chrome Browser easy to generate links in Markdown inline text link format. This tool will help to generate links for resources with minimal steps and context switching.
 
 ---
-
-## Updating your PR
+ß## Updating your PR
 
 A lot of times, making a PR adhere to the standards above can be difficult.
 If the maintainers notice anything that we'd like changed, we'll ask you to
