@@ -2,7 +2,7 @@
 
 > In 2013 RedGate Software released a super useful [skill map](https://www.red-gate.com/wp-content/uploads/2014/02/Test-Engineering-Skills-v3.pdf) for Test Engineering discipline. It covers the breadth of skills along with specialism for Test Engineers (some call them SDETs). This repo lists curated resources to learn & master the skills mentioned in the core Test Engineer skill map.
 
-Please feel free to fork the repo and add your favorite blog posts, books, courses or any other resources on these skill areas.
+Please feel free to fork the repo and add your favorite blog posts, books, courses or any other useful resources on these skill areas.
 
 ## Contents
 * [Test Design](#test-design)
