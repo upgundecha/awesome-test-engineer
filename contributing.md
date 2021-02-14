@@ -6,13 +6,11 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+## Markdown Link Generator
 
-- Make sure the high level list is alphabetcially ordered
-- Do not add certification courses
+You may find the [Markdown Link Generator](https://chrome.google.com/webstore/detail/markdown-link-generator/glnecdafikgonniihbdjneaikhcgcbhb?hl=en-GB&authuser=0) extension for Google Chrome Browser easy to generate links in Markdown inline text link format. This tool will help to generate links for resources with minimal steps and context switching.
 
-Thank you for your suggestions!
-
+---
 
 ## Updating your PR
 

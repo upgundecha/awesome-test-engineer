@@ -6,7 +6,21 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 
 ## Contents
 * [Test Design](#test-design)
+    * [Selecting Heuristics](#selecting-heuristics)
+    * [Black Box Techniques](#black-box-techniques)
+    * [Identifying Combinatorial Explosions](#identifying-combinatorial-explosions)
+    * [Chartering](#chartering)
+    * [Identifying and using Oracles](#identifying-and-using-oracles)
+    * [Test Technique Selection](#test-technique-selection)
+    * [Requirement Analysis](#requirement-analysis)
 * [Test Approach](#test-approach)
+    * [Determine Test Approach](#determine-test-approach)
+    * [Benchmarking](#benchmarking)
+    * [Regression Testing](#regression-testing)
+    * [Exploratory Testing](#exploratory-testing)
+    * [Testing Tours](#testing-tours)
+    * [ATDD](#atdd)
+    * [BDD](#bdd)
 * [Technical](#technical)
 * [Speaking & Writing](#speaking-&-writing)
 * [Social Skills](#social-skills)
@@ -32,7 +46,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 * [Pairwise Testing By Michael Bolton](https://www.developsense.com/pairwiseTesting.html)
 ### Chartering
 * [Resource Name](#link)
-### Identifying/using Oracles
+### Identifying and using Oracles
 * [Examples of Test Oracles By Cem Kaner](http://www.testingeducation.org/k04/OracleExamples.htm)
 ### Test Technique Selection
 * [Resource Name](#link)
