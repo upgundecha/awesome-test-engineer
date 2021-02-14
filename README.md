@@ -51,7 +51,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Testing Tours
 * [Resource Name](#link)
 ### ATDD
-[Resource Name](#link)
+* [Resource Name](#link)
 ### BDD
 * [Course - Cucumber School Online](https://cucumber.io/school/)
 
@@ -161,7 +161,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Asking Questions
 * [Resource Name](#link)
 ### Giving Difficult Feedback
-* [Book - Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447/ref=sr_1_1?crid=3MWKLA44TW784&dchild=1&keywords=difficult+conversations&qid=1613290221&s=books&sprefix=difficu%2Cstripbooks%2C389&sr=1-1)(#link)
+* [Book - Difficult Conversations: How to Discuss What Matters Most](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447/ref=sr_1_1?crid=3MWKLA44TW784&dchild=1&keywords=difficult+conversations&qid=1613290221&s=books&sprefix=difficu%2Cstripbooks%2C389&sr=1-1)
 ### Define Trading Language
 * [Resource Name](#link)
 
