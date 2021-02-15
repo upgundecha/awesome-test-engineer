@@ -31,6 +31,8 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Identifying Combinatorial Explosions
 * [Pairwise Testing: A Best Practice That Isn't By James Bach](https://www.satisfice.com/download/pairwise-testing-a-best-practice-that-isnt)
 * [Pairwise Testing By Michael Bolton](https://www.developsense.com/pairwiseTesting.html)
+* [Pairwise Testing](https://jaccz.github.io/pairwise/)
+* [Pairwise Testing Testing Tools](https://jaccz.github.io/pairwise/tools.html)
 ### Chartering
 * [Resource Name](#link)
 ### Identifying and using Oracles
@@ -98,7 +100,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Cross Functional Pairing
 * [Resource Name](#link)
 ### Situational Awareness
-* [Wikipedia - Situation awareness](https://en.wikipedia.org/wiki/Situation_awareness#:~:text=Situational%20awareness%20or%20situation%20awareness,projection%20of%20their%20future%20status.)
+* [Wikipedia - Situational awareness](https://en.wikipedia.org/wiki/Situation_awareness#:~:text=Situational%20awareness%20or%20situation%20awareness,projection%20of%20their%20future%20status.)
 ### Diplomacy
 * [Resource Name](#link)
 
