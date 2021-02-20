@@ -180,7 +180,7 @@ Please feel free to fork the repo and add your favorite blog posts, books, cours
 ### Monitoring Progress
 * [Resource Name](#link)
 ### Asking Questions
-* [Resource Name](#link)
+* [The 7 soft skills every QA tester needs](https://techbeacon.com/app-dev-testing/7-soft-skills-every-qa-tester-needs)
 ### Giving Difficult Feedback
 * [Book - Difficult Conversations: How to Discuss What Matters Most By Douglas Stone, Bruce Patton, Sheila Heen](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
 ### Define Trading Language
